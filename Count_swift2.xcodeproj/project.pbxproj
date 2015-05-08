@@ -13,6 +13,7 @@
 		65ABB4951AFCE876005DD0D2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65ABB4941AFCE876005DD0D2 /* Images.xcassets */; };
 		65ABB4981AFCE876005DD0D2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 65ABB4961AFCE876005DD0D2 /* LaunchScreen.xib */; };
 		65ABB4A41AFCE876005DD0D2 /* Count_swift2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65ABB4A31AFCE876005DD0D2 /* Count_swift2Tests.swift */; };
+		65ABB4AE1AFCE9BC005DD0D2 /* IMG_1901.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 65ABB4AD1AFCE9BC005DD0D2 /* IMG_1901.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		65ABB49D1AFCE876005DD0D2 /* Count_swift2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Count_swift2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65ABB4A21AFCE876005DD0D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65ABB4A31AFCE876005DD0D2 /* Count_swift2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Count_swift2Tests.swift; sourceTree = "<group>"; };
+		65ABB4AD1AFCE9BC005DD0D2 /* IMG_1901.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1901.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		65ABB48A1AFCE876005DD0D2 /* Count_swift2 */ = {
 			isa = PBXGroup;
 			children = (
+				65ABB4AD1AFCE9BC005DD0D2 /* IMG_1901.JPG */,
 				65ABB48D1AFCE876005DD0D2 /* AppDelegate.swift */,
 				65ABB48F1AFCE876005DD0D2 /* ViewController.swift */,
 				65ABB4911AFCE876005DD0D2 /* Main.storyboard */,
@@ -194,6 +197,7 @@
 			files = (
 				65ABB4931AFCE876005DD0D2 /* Main.storyboard in Resources */,
 				65ABB4981AFCE876005DD0D2 /* LaunchScreen.xib in Resources */,
+				65ABB4AE1AFCE9BC005DD0D2 /* IMG_1901.JPG in Resources */,
 				65ABB4951AFCE876005DD0D2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
